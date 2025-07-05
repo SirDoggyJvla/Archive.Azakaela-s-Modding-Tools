@@ -1,7 +1,7 @@
 # Archive: Azakaela's Modding Tools
 Archives tools created by Azakaela to mod Project Zomboid. For more informations, see the official wiki pages regarding each individual tools.
 
-Most of these come from [Azakaela's online shop](https://itch.io/c/3559397/project-zomboid-tools) with some files provided by them. They also have a [Steam page](https://steamcommunity.com/sharedfiles/filedetails/?id=2998120058) with some of their modding tools linked there.
+Most of these come from [Azakaela's online shop](https://itch.io/c/3559397/project-zomboid-tools) (note that it is not necessary to pay for these) with some files provided by them. They also have a [Steam page](https://steamcommunity.com/sharedfiles/filedetails/?id=2998120058) with some of their modding tools linked there.
 
 ## Azakaela's Recorded Media Maker Tool
 ![Logo of the recorded media maker tool](Azakaela's%20Recorded%20Media%20Maker%20Tool/Azakaela's%20Recorded%20Media%20Maker%20Tool%20-%20preview.png)
