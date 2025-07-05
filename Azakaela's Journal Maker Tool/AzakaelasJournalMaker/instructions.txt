@@ -1,0 +1,22 @@
+Hi there!
+
+To make your own prewritten journal to appear in the game, all you gotta do is fill out the input.txt file provided with the program.
+
+Name your Journal something unique on the line JournalName=
+
+Then for every page you want the journal to contain, add a new line with pgX= where X is the new page number. You need to ensure you don't skip any pages, and start at pg1.
+
+
+When you're ready, save input.txt, then run the program. It will generate a media folder, inside of which is a lua file in media/lua/client which handles the UI of your journal; it also creates a script file located in media/scripts which creates the item!
+
+IMPORTANT: This mod will require SimpleUILibrary, so in your mod.info add the line 
+
+require=UIAPI
+
+and when you publish the mod, add SimpleUILibrary as a required item to ensure that people download it as well.
+
+
+Now when you go to test in game in debug or as admin, in the itemslist viewer there should be a tab called Journals with your item in it, spawning one of these and right clicking on it in your inventory will add a "Read Journal" option that brings up the Journal UI, where you can browse pages and read the Journals contents.
+
+
+Have Fun!

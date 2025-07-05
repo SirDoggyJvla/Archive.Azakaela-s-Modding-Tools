@@ -1,0 +1,4 @@
+ModName=AzakaelasCoolMod
+IWantTheseToSpawnOnZombies=false
+Note1=Example
+Note2=Word to the Wise

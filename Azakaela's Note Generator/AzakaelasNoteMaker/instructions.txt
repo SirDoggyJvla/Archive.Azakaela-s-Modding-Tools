@@ -1,0 +1,19 @@
+Hi there, with this tool you can generate the lua files and script files you need to create in game notes using the Map system -- your notes will be images that are 992 x1244 pixels, but if that's too confusing, there's a template image you can use in the /ui/LootableMaps Folder of this tool.
+
+Edit the template image and use it to put whatever content you want in it and save it as "YourModName_Note1" or "Note2" or "Note15120101" or whatever number of notes your on -- make sure to save it as a png file and that you haven't messed with the size of the image.
+
+From there fill out the input.txt like so, for however many notes you want to include in the mod. For each Note you have to set it's display name. You can also toggle whether or not you want these to spawn on zombies in your mod.
+
+ModName=AzakaelasCoolMod
+IWantTheseToSpawnOnZombies=false
+Note1=Example
+Note2=Word to the Wise
+
+
+Once you're done editing the input.txt, save it then run the program, it will generate a media folder that you can place in your mod, with everything the right place.
+
+After that's done, drop the ui folder in the media folder and you should be good to go!
+
+Also, If you set IWantTheseToSpawnOnZombies to true, when you generate, an additional distribution file will be created that makes it so zombies have a chance to spawn your notes.
+
+Have fun!
