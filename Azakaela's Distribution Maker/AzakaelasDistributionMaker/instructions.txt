@@ -1,0 +1,7 @@
+Hi there,
+
+using this tool will generate a lua file that will add items you define to Zomboid's distribution system via table inserts.
+
+The resulting file should be placed in media/server/Items/ and you should rename it something unique like "MyDistributions.lua" or whatever.
+
+Have fun!

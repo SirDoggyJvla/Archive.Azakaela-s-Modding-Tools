@@ -1,0 +1,35 @@
+Open the input.txt file.
+
+Edit the file by adding lines after the lines= line. Each line should be formatted as <color>=<text>. For example, 
+
+red= type whatever you want the broadcast line to say.
+
+Choose one of the available colors for the line. 
+The current colors are: 
+red, orange, yellow, lime, green, cyan, teal, blue, purple, pink, magenta, and white
+
+Specify a category for the tape. 
+Categories can only be one of the following: CDs, Retail-VHS, or Home-VHS.
+
+Save the input.txt file.
+
+Run the program file.
+
+The program will generate two files: MyVHSTape.lua and Recorded_Media_EN.txt.
+
+
+In your mod, place the MyVHSTape.lua file in media/lua/shared/RecordedMedia/ directory.
+
+Also in your mod, place the Recorded_Media_EN.txt file in media/lua/shared/Translate/EN directory.
+
+To test the tape in-game, enable the debug mode and make sure your mod is enabled.
+
+Spawn a VHS tape or CD in the game.
+
+Right-click on the item and scroll down to the debug menu.
+
+Use the debug menu to change which tape or CD is loaded. You should see an option for your tape if everything worked correctly.
+
+Thank you for using the tool! If you found it helpful, feel free to spread the word about it.
+
+Let me know if you need any further assistance!
