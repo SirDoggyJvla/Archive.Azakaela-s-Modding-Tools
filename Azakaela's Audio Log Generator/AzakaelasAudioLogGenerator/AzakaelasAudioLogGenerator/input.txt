@@ -1,0 +1,6 @@
+ModName=AzakaelasMod
+AudioLog1Name=Fun
+AudioLog2Name=Free
+AudioLog3Name=Cool
+AudioLog4Name=Epic
+AudioLog5Name=Badass

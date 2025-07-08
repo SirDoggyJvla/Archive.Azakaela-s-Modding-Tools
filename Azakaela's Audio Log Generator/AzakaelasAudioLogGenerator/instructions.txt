@@ -1,0 +1,19 @@
+Hi! Ever wanted to make your own found tapes that play audio when interacted with?
+
+Well now it's easier than ever.
+
+First thing you need to do is of course have some audio you want to play.
+
+Take that audio file, open it in Audacity and export it as a .ogg file, give it a simple name which you'll use for later. Drop that file in the media/sound folder of your mod. Do this for each sound file you will have in your mod.
+
+Next up, open up the input.txt file and fill out the ModName= with the name of your mod, then fill out the AudioLog#Name= with the appropriate name of your audio file. You can have as many Audio Logs as you want, provided they follow the correct formatting of AudioLog#Name=.
+
+When you're done editing the input.txt file, save it, then run the program. It will generate 3 files for you. A Lua file which must be placed in media/client folder of your mod, and two script files which must be placed in media/scripts.  Please remember to rename these files to preserve compatibility with other mods!
+
+
+And after all this is done, it should just work! 
+
+If you made a mod this way, it would also be nice if you credited me and linked the tool in your description. Not neccesarry, but it helps promote the tool ;)
+
+Have a nice day! 
+<3 Azakaela
