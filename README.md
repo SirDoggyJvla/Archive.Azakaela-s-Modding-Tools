@@ -5,6 +5,8 @@ Archives tools created by Azakaela to mod Project Zomboid. For more informations
 
 Most of these come from [Azakaela's online shop](https://itch.io/c/3559397/project-zomboid-tools) (note that it is not necessary to pay for these) with some files provided by them. They also have a [Steam page](https://steamcommunity.com/sharedfiles/filedetails/?id=2998120058) with some of their modding tools linked there.
 
+The `decompiled` files are the decompiled codes of the tools. These were retrieved by [Aoqia](https://steamcommunity.com/id/aoqia/) and reworked a bit to the recent Python versions.
+
 ## Azakaela's Recorded Media Maker Tool
 ![Logo of the recorded media maker tool](Azakaela's%20Recorded%20Media%20Maker%20Tool/Azakaela's%20Recorded%20Media%20Maker%20Tool%20-%20preview.png)
 
@@ -14,7 +16,7 @@ Files come from:
 - https://azakaela.itch.io/pz-recorded-media-maker-tool
 - Azakaela themselves (python code)
 
-The [`source_main.py`](Azakaela's%20Recorded%20Media%20Maker%20Tool/source_main.py) file is not the entire source code but from Azakaela's words, is the main code of the tool.
+The [`main.py`](Azakaela's%20Recorded%20Media%20Maker%20Tool/source_main.py) file is not the decompiled tool but was provided by Azakaela, which from their word is the main code used.
 
 ## Azakaela's Distribution Maker
 ![Logo of the distribution maker tool](Azakaela%27s%20Distribution%20Maker/Azakaela%27s%20Distribution%20Maker%20-%20preview.png)
